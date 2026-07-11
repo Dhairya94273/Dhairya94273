@@ -21,10 +21,6 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 <img src="https://img.shields.io/badge/LinkedIn-Dhairya%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shahdhairya712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Dhairya94273">
 <img src="https://img.shields.io/badge/GitHub-Dhairya94273-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -114,11 +110,9 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 # 💻 LeetCode Stats
 
-> Replace `YOUR_LEETCODE_USERNAME` with your real LeetCode username.
-
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+<img src="https://leetcard.jacoblin.cool/Dhairya94273?theme=dark&font=Poppins"/>
 
 </p>
 
