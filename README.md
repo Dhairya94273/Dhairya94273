@@ -70,9 +70,9 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhairya94273&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhairya94273&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya94273&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya94273&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -98,15 +98,6 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhairya94273&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 💻 LeetCode Stats
 
