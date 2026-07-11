@@ -27,7 +27,7 @@ IT Student | C++ | DSA | Full Stack Developer | Open Source Learner
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:shahdhairya712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -52,14 +52,14 @@ IT Student | C++ | DSA | Full Stack Developer | Open Source Learner
 
 ## Contribution Snake 🐍
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Dhairya94273/Dhairya94273/output/github-contribution-grid-snake.svg">
 </p>
 ## LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/Dhairya94273?theme=dark&font=Poppins"/>
 ## Trophy Section
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhairya94273&theme=radical&no-frame=true&margin-w=15"/>
 ##  Visitor Counter
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Dhairya94273&label=Profile+Views&color=blueviolet"/>
 
 Featured Projects
 ## 🚀 Featured Projects
@@ -71,7 +71,7 @@ Featured Projects
 ⭐ Leetcode Problems
 
 ## GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhairya94273&theme=react-dark"/>
 
 ## Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
