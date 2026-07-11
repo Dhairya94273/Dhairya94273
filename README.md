@@ -157,18 +157,6 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 </p>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dhairya94273&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 📫 Reach Me
 
 📧 **Email:** shahdhairya712@gmail.com
