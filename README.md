@@ -94,15 +94,6 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhairya94273&theme=tokyo-night"/>
-
-</p>
-
----
 
 
 # 💻 LeetCode Stats
