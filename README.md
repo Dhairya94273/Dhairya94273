@@ -66,23 +66,6 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhairya94273&theme=tokyonight" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhairya94273&theme=tokyonight" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhairya94273&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhairya94273&theme=tokyonight" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhairya94273&theme=tokyonight&utcOffset=5.5" width="48%"/>
-</p>
 
 # 🔥 GitHub Streak
 
@@ -94,7 +77,15 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 
 ---
 
+# 📈 GitHub Activity Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhairya94273&theme=tokyo-night"/>
+
+</p>
+
+---
 
 # 💻 LeetCode Stats
 
