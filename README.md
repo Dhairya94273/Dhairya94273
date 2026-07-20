@@ -67,24 +67,9 @@ IT Student • C++ Developer • DSA Learner • Full Stack Web Developer 🚀
 ---
 
 # 📊 GitHub Analytics
-
-<h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhairya94273&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhairya94273&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dhairya94273" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairya94273&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhairya94273&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhairya94273&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-
 # 🔥 GitHub Streak
 
 <p align="center">
